@@ -1,5 +1,5 @@
 # <p align="center">️ Hi there <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Hưng</p>
----
+
 <img align="right" alt="Coding" width="330" src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
@@ -10,5 +10,3 @@
 
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
-
----
