@@ -4,7 +4,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm currently in my internship at **@ZaloPay** as an **Data Engineer**&nbsp;<img src="https://media.giphy.com/media/GrgmNenozL3Py/giphy.gif" width="30">
+- I'm currently in my working as a **Associate Data Engineer** **@ZaloPay** &nbsp;<img src="https://media.giphy.com/media/GrgmNenozL3Py/giphy.gif" width="30">
 - I like to work in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
