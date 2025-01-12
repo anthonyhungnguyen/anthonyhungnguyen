@@ -15,6 +15,5 @@
 
 ### 🔗 Connect with me:
 
--   [LinkedIn](linkedin.com/in/anthonynguyen276)
+-   [LinkedIn](https://www.linkedin.com/in/anthonynguyen276/)
 -   [Personal Website](anthonyhungnguyen.com)
--   [GitHub](github.com/anthonyhungnguyen)
