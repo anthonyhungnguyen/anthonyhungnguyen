@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="330" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl6Njc2NGd6eXkwc3BwanJnYnl1eXd2M3k4ejV5cWxzb3JmZmE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QUKqSLmE7vmZP2PkZk/giphy.gif">
 
-##    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl6Njc2NGd6eXkwc3BwanJnYnl1eXd2M3k4ejV5cWxzb3JmZmE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QUKqSLmE7vmZP2PkZk/giphy.gif" width="50"> **About Me**
+##    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s3emVnMXV6YXlzbjY3dnd2dzVqdTFyd3drOXplNDgzMDJ3YW9meCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VEzYdo930nTiTuVeMU/giphy.gif" width="50"> **About Me**
 
 - 👋 Hi, I'm **Phuc Hung Nguyen**, a data engineer passionate about building robust and scalable data solutions.
 - 🛠️ Experienced in **architecting data platforms**, **developing high-throughput APIs**, and **engineering data pipelines**.
