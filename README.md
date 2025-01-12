@@ -1,6 +1,6 @@
 # <p align="center">️ Hi there <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Anthony</p>
 
-<img align="right" alt="Coding" width="550" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl6Njc2NGd6eXkwc3BwanJnYnl1eXd2M3k4ejV5cWxzb3JmZmE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QUKqSLmE7vmZP2PkZk/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl6Njc2NGd6eXkwc3BwanJnYnl1eXd2M3k4ejV5cWxzb3JmZmE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QUKqSLmE7vmZP2PkZk/giphy.gif">
 
 ##    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxoNnUycDVoMzRpd29mMHhkcGJkdnNkcXE3d3Z6aHR5eWVxZTBybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jh7F7XwHTywg85ekdl/giphy.gif" width="50"> **About Me**
 
