@@ -1,12 +1,20 @@
-# <p align="center">️ Hi there <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Hưng</p>
+# <p align="center">️ Hi there <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"> I'm Anthony</p>
 
-<img align="right" alt="Coding" width="330" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl6Njc2NGd6eXkwc3BwanJnYnl1eXd2M3k4ejV5cWxzb3JmZmE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QUKqSLmE7vmZP2PkZk/giphy.gif">
+<img align="right" alt="Coding" width="330" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl6Njc2NGd6eXkwc3BwanJnYnl1eXd2M3k4ejV5cWxzb3JmZmE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QUKqSLmE7vmZP2PkZk/giphy.gif">
 
-## &nbsp; &nbsp;<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl6Njc2NGd6eXkwc3BwanJnYnl1eXd2M3k4ejV5cWxzb3JmZmE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QUKqSLmE7vmZP2PkZk/giphy.gif" width="30"> **About Me**
+##    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl6Njc2NGd6eXkwc3BwanJnYnl1eXd2M3k4ejV5cWxzb3JmZmE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QUKqSLmE7vmZP2PkZk/giphy.gif" width="30"> **About Me**
 
-- I'm currently in my working as an **Associate Data Engineer** **@ZaloPay** &nbsp;<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl6Njc2NGd6eXkwc3BwanJnYnl1eXd2M3k4ejV5cWxzb3JmZmE5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QUKqSLmE7vmZP2PkZk/giphy.gif" width="30">
-- I like to work in 🐧️**Linux** Environment.
-- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+- 👋 Hi, I'm **Phuc Hung Nguyen**, a data engineer passionate about building robust and scalable data solutions.
+- 🛠️ Experienced in **architecting data platforms**, **developing high-throughput APIs**, and **engineering data pipelines**.
+- 🎓 Currently pursuing a **Master's in Applied Computing** at the **University of Windsor**.
+- 💼 Previously worked at **Giao Hang Nhanh** and **VNG**, developing data-driven applications and improving data accessibility.
+- 👨‍💻 Proficient in **Java, Python, JavaScript**, and a variety of data technologies (**Kafka, PySpark, Airflow, Spring Boot, React**, and more).
+- 🚀 Check out my projects below to see my work in action!
 
+---
 
-### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
+### 🔗 Connect with me:
+
+-   [LinkedIn](linkedin.com/in/anthonynguyen276)
+-   [Personal Website](anthonyhungnguyen.com)
+-   [GitHub](github.com/anthonyhungnguyen)
