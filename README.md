@@ -16,4 +16,4 @@
 ### 🔗 Connect with me:
 
 -   [LinkedIn](https://www.linkedin.com/in/anthonynguyen276/)
--   [Personal Website](anthonyhungnguyen.com)
+-   [Personal Website](https://anthonyhungnguyen.com)
